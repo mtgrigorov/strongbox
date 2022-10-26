@@ -1,3 +1,4 @@
+Test 2
 Welcome to the Strongbox Maven artifact repository manager's home.
 
 # What's implemented:
